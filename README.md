@@ -6,12 +6,11 @@ I'm a fourth-year ESADE student (BBA + AI for Business) who works as an *operato
 
 ### Featured work
 
-- 🛰️ **[Tambopata Mining Monitor](https://github.com/nickbiird/Tambopata-Mining-Monitor)** — satellite ML that flags *illegal* gold mining in the Peruvian Amazon for enforcement. Random-forest classifier, legality overlay, ranger dashboard. Validated honestly on a leakage-free holdout (86% recall). *Group capstone, grounded in real SERNANP stakeholder interviews.*
+- 🎯 **[ICP Radar](https://icp-radar.vercel.app)** — semantic target-account discovery: describe who you sell to in plain English, and it ranks ~3,800 European startups by *meaning* (browser-side vector search), then drafts a Challenger-style outreach email. **Live**, serverless, $0 to host. *([code](https://github.com/nickbiird/icp-radar))*
 - 🤖 **[mcp-ai-workspace](https://github.com/nickbiird/mcp-ai-workspace)** — a from-scratch **MCP server** that gives an LLM a document-search tool, with a vector-RAG pipeline and a retrieval **evals harness** (hit@k / MRR). Proof I can wire up — and *measure* — agentic retrieval.
+- 🛰️ **[Tambopata Mining Monitor](https://github.com/nickbiird/Tambopata-Mining-Monitor)** — satellite ML that flags *illegal* gold mining in the Peruvian Amazon for enforcement. Random-forest classifier, legality overlay, ranger dashboard. Validated honestly on a leakage-free holdout (86% recall). *Group capstone, grounded in real SERNANP stakeholder interviews.*
 - ☁️ **[TravelHelp](https://github.com/nickbiird/TravelHelp)** — a fully **serverless AWS** recommender: five Lambda microservices, Cognito JWT auth, DynamoDB, all as **Terraform IaC** with a CI/CD pipeline. *Team project.*
 - ☁️ **[self-hosted-llm-aws-deploy](https://github.com/nickbiird/self-hosted-llm-aws-deploy)** — my AWS deployment of a self-hosted LLM + MCP + RAG stack (Caddy/Let's Encrypt TLS on EC2). *Built on my DevOps professor's teaching stack — credited.*
-
-*(ICP Radar — semantic sales intelligence over 3,756 EU startups — is live at [icp-radar.vercel.app](https://icp-radar.vercel.app).)*
 
 ### Now
 
